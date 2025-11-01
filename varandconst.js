@@ -2,7 +2,7 @@ const accountId = 11223344 //cannot change after words
 var name = "Rafey Hussain"//can change after words BUT NOT MOSTLY USED DUE TO SCOPE ISSUE
 let Accountemail = "Rafey@1267"//used mostly
 city = "Lahore"//not recommended
-firstName = //undefined
+firstName = //undefined   
 
     console.log("Account id is: " + accountId);
 
